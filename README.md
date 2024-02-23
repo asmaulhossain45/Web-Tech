@@ -1,6 +1,6 @@
-###Web-Tech
+### Web-Tech
 
-#Tools
--Raw HTML
--BootStrap
--JavaScript
+## Tools
+- Raw HTML
+- BootStrap
+- JavaScript
